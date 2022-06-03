@@ -4,7 +4,7 @@
 ///////////////////////////////////////
 // Activating Strict Mode
 let hasDriversLicense = false;
-const passTest = true;
+const passTest = fs;
 
 if (passTest) hasDriversLicense = true;
 if (hasDriversLicense) console.log('I can drive :D');
